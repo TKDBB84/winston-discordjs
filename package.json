@@ -3,10 +3,10 @@
   "bugs": "https://github.com/robbot-discord/winston-discordjs/issues",
   "dependencies": {
     "@types/ws": "^8.5.3",
-    "discord.js": "^13.8.0",
-    "logform": "^2.4.0",
+    "discord.js": "^13.8.1",
+    "logform": "^2.4.1",
     "utility-types": "^3.10.0",
-    "winston": "^3.7.2",
+    "winston": "^3.8.0",
     "winston-transport": "^4.5.0"
   },
   "description": "Winston Transport using Discord.js",
